@@ -1,4 +1,4 @@
-![logo](https://github.com/YourUsername/YourUsername/blob/main/Github%20Banner.png)
+![logo](https://github.com/Prince9369/Prince9369/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Prince Seth</h1>
 <h3 align="center">A passionate IT student, developer, and competitive programmer from India</h3>
