@@ -87,7 +87,7 @@ I'm a **relentless learner** who believes in turning **ideas into impactful solu
 
 ### **[FitFusion](https://github.com/Prince9369/FitFusion)**
 A fitness platform that leverages AI to offer personalized workout plans, progress tracking, and real-time feedback.
-- **Tech Stack**: - HTML CSS JavaScript Gemini API
+- **Tech Stack**: - HTML, CSS, JavaScript, Gemini API
 
 ### **[Wanderlust](https://github.com/Prince9369/Wanderlust)**
 - 🌍 **Wanderlust**: A travel app designed to help users explore new destinations, plan trips, and discover unique places around the world.
